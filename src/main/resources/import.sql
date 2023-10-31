@@ -1,0 +1,11 @@
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Pert', 'Petrov', 0, '9384877', 'Moscow');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Ivan', 'Ivanov', 27, '3646466', 'Saratov');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Pert', 'Sidorov', 18, '3464677', 'Sochi');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Sergey', 'Alekseev', 39, '9384877', 'Moscow');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Fedor', 'Fedorov', 67, '6786545', 'Kazan');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Stepan', 'Stepanov', 32, '3545788', 'Vladivostok');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Alex', 'Petrov', 84, '34535252', 'Moscow');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES('Pert', 'Ivanov', 23, '8664445', 'Krasnodar');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Ivan', 'Petrov', 43, '6544567', 'Kazan');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Fedor', 'Petrov', 21, '6556785', 'Minsk');
+INSERT INTO persons(name, surname, age, phone_number, city_of_living) VALUES ('Igor', 'Aleksandrov', 22, null, 'Moscow');
